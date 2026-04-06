@@ -1,0 +1,19 @@
+QSP STEP QPU Experiment -- qpu:belenos
+File tag     : STEP_L5_N5000_x10
+Angle method : pq
+x points     : 10
+N_SHOTS      : 5000
+Fix 1 retries: 3
+Fix 2 NaN    : enabled
+Fix 3 timeout: enabled (30s wait on network error)
+
+x[00] = -3.1416  job_id = 83d36e7e-6264-4a68-8df9-244e8ea5ccb8
+x[01] = -2.4435  job_id = 6c3aa023-e636-4887-a7a3-a5e7353da552
+x[02] = -1.7453  job_id = 51dc6c7e-d23a-4b6f-adb1-e4f3e8292559
+x[03] = -1.0472  job_id = cb446cca-e5d8-489b-be66-7563e18590fe
+x[04] = -0.3491  job_id = b332e58b-9415-4b37-93ce-9df128977fa9
+x[05] = +0.3491  job_id = ffeecccf-c5f9-42a6-bd93-020dd9f7cb81
+x[06] = +1.0472  job_id = 9fcb5618-28aa-42d1-b0fa-36496cc063d6
+x[07] = +1.7453  job_id = ec18bbd9-037e-47da-95c8-3a2e212b0aac
+x[08] = +2.4435  job_id = eb693d89-ce84-4c60-8808-1080c925d657
+x[09] = +3.1416  job_id = cdd85c9e-9961-40c0-a8ef-b92e7debd9a9
