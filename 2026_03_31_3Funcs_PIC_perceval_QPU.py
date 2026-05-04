@@ -242,7 +242,7 @@ def build_qsp_pic(theta_arr, phi_arr, x_val, L):
 # ============================================================
 
 N_SHOTS  = 5000
-x_values = np.linspace(-np.pi, np.pi, 10)
+x_values = np.linspace(-np.pi, np.pi, 100)
 N_X      = len(x_values)
 
 FILE_TAG = f"{FUNC_NAME}_L{L}_N{N_SHOTS}_x{N_X}"
