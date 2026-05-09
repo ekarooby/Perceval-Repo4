@@ -38,7 +38,7 @@ from paddle_quantum.qpp.angles import qpp_angle_approximator
 # ============================================================
 
 FUNC_NAME = "STEP"   # "STEP", "ReLU", or "SELU"
-ANGLE_L   = 10     # desired L
+ANGLE_L   = 12    # desired L
 
 # ============================================================
 # Derived settings
