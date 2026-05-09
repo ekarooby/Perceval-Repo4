@@ -1,5 +1,5 @@
 # ============================================================
-# This code corrects the problem of Code "22026_05_04_CircuitDecomposition_MZIs_AnyL_xSweep_PSonlyOnMode1_fab" by using both non-ideal chip BSs and ideal 50:50 BSs for the Ry(theta) gates with theta close to pi or zero
+# This code corrects the problem of Code "2026_05_04_CircuitDecomposition_MZIs_AnyL_xSweep_PSonlyOnMode1_fab" by using both non-ideal chip BSs and ideal 50:50 BSs for the Ry(theta) gates with theta close to pi or zero
 # This code Handles extreme theta values (near 0 or pi) by falling back to ideal 50:50 BSs
 # in the decomposition (which has a closed-form solution). Phi values are then
 # applied to chip's real BSs, introducing a small per-gate error that is
